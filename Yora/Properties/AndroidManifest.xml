@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Yora.Yora" android:versionCode="1" android:versionName="1.0">
+  <uses-sdk android:minSdkVersion="17" />
+  <application android:label="Yora" 
+               android:name="Yora.Infrastructure.YoraApplication"
+               android:theme="@style/AppTheme"></application>
+</manifest>
